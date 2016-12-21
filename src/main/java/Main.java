@@ -1,5 +1,3 @@
-package qfl.kangaroo;
-
 /*
  * Copyright 2012. Bloomberg Finance L.P.
  *
