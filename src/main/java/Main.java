@@ -78,6 +78,7 @@ public class Main
   public Main()
   {
     d_host = "192.168.91.28";
+    // d_host = "127.0.0.1";
     d_port = 8194;
     d_securities = new ArrayList<String>();
     d_fields = new ArrayList<String>();

@@ -1,5 +1,5 @@
 #!/bin/bash
-BIN=/home/$(whoami)/Dropbox/dataENF/blmg/blmgDayBarDownloader/target/blmg_day_bar_downloader-assembly-1.0-SNAPSHOT.jar
+BIN=/home/$(whoami)/Dropbox/dataENF/blmg/blmgDayBarDownloader/blmg_day_bar_downloader-assembly-1.0-SNAPSHOT.jar
 BLMGCOMMON=/home/$(whoami)/Dropbox/dataENF/blmg/common_path.sh
 OUTFILE1=/home/$(whoami)/Dropbox/dataENF/blmg/d1_fundl_allstk.csv
 OUTFILE1_TMP=/home/$(whoami)/Dropbox/dataENF/blmg/d1_fundl_allstk_tmp.csv
